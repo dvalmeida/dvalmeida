@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/diogo-almeida-077243223/" target="_blank"><img
         src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="Linkedin"></a>
-    <a href="https://discord.gg/XfUJujg3FC" target="_blank"><img
+    <a href="" target="_blank"><img
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
         alt="Instagram"></a>
   </p>
